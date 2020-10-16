@@ -1,0 +1,14 @@
+body {
+  font-family: Helvetica, sans-serif;}
+header
+{background-color: black;
+ padding: 14px;
+ }
+header a {color: white;text-decoration: none;}
+section {
+  font-family: helvetica, sans-serif;}
+  h1 {font-size: large;}
+  h2 {font-size: medium;}
+div {<section>
+  display: inline-block;
+  border-style: solid; width: 50px;}
